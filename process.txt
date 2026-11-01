@@ -1,3 +1,8 @@
 1.install next js
 2.intall daisy ui
 3.install hero ui
+4.create signup
+5.better auth install
+6.better auth secret key
+7.then mongoDB install
+8.mongoDB better auth/adaoter install next-recap:QnT8UTVuFzB3kLY1
